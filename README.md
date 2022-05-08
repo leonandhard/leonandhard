@@ -1,2 +1,2 @@
 # leonandhard
-test test
+Try my best to be a good developer
