@@ -1,2 +1,2 @@
 # leonandhard
-Try my best to be a good developer
+To be a good developer
